@@ -1,0 +1,33 @@
+{
+    "signup": [
+        {
+            "name": "pankaj",
+            "email": "pankaj@gmail.com",
+            "password": 111111,
+            "id": 1
+        }
+    ],
+    "income": [
+        {
+            "salary": 0,
+            "gift": 0,
+            "refund": 0,
+            "others": 0
+        }
+    ],
+    "expense": [
+        {
+            "Food & Drinks": 0,
+            "Shopping": 0,
+            "Housing": 0,
+            "Bills": 0,
+            "Vehicle & Transport": 0,
+            "Lifestyle": 0
+        }
+    ],
+    "history": [
+        {
+            "invest": 0
+        }
+    ]
+}
