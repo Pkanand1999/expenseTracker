@@ -1,33 +1,57 @@
 {
     "signup": [
-        {
-            "name": "pankaj",
-            "email": "pankaj@gmail.com",
-            "password": 111111,
-            "id": 1
-        }
+      {
+        "name": "pankaj",
+        "email": "pankaj@gmail.com",
+        "password": 111111,
+        "id": 1
+      },
+      {
+        "name": "Pankaj Kumar Anand",
+        "phone": "111111",
+        "email": "singhisking810267@gmail.com",
+        "id": 2
+      }
     ],
     "income": [
-        {
-            "salary": 0,
-            "gift": 0,
-            "refund": 0,
-            "others": 0
-        }
+      {
+        "type": "Salary",
+        "amount": 0,
+        "id": 1
+      },
+      {
+        "type": "Gifts",
+        "amount": "700",
+        "id": 2
+      }
     ],
     "expense": [
-        {
-            "Food & Drinks": 0,
-            "Shopping": 0,
-            "Housing": 0,
-            "Bills": 0,
-            "Vehicle & Transport": 0,
-            "Lifestyle": 0
-        }
+      {
+        "type": "Lifestyle",
+        "amount": "500",
+        "id": 1
+      },
+      {
+        "type": "Bills",
+        "amount": "900",
+        "id": 2
+      }
     ],
     "history": [
-        {
-            "invest": 0
-        }
+      {
+        "type": "Lifestyle",
+        "amount": "500",
+        "id": 1
+      },
+      {
+        "type": "Bills",
+        "amount": "900",
+        "id": 2
+      },
+      {
+        "type": "Gifts",
+        "amount": "700",
+        "id": 3
+      }
     ]
-}
+  }
